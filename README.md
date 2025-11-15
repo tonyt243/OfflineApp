@@ -6,7 +6,9 @@ The app implements offline-first architecture, allowing users to view cached dat
 Users can search through the list by name or email, and manually refresh the data using a refresh button.
 
 ## Screenshots
-
+<img src="screenshots/default.png" width="250">
+<img src="screenshots/search.png" width="250">
+<img src="screenshots/error.png" width="250">
 
 
 ## Tech Used
